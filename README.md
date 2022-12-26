@@ -31,4 +31,4 @@ Rooty is licensed under the MIT License. See [LICENSE](LICENSE) for more informa
 
 Visit wiki for more information!
 
-https://github.com/murad-qumizakis/rootyBCIT/wiki
+https://github.com/murad-qumizakis/rootyBCIT/wiki/Welcome-to-Rooty!
