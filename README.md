@@ -27,3 +27,8 @@ Rooty was developed by a team of students from the Full-Stack Web Development an
 ## License
 
 Rooty is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+
+Visit wiki for more information!
+
+https://github.com/murad-qumizakis/rootyBCIT/wiki
